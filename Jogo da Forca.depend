@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448148395 source:c:\users\barbosa\documents\ufrpe\ip\projeto\jogo da forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1448828045 source:c:\users\mbarra\documents\ufrpe\ip\projeto\jogo da forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+
